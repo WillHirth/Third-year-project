@@ -102,7 +102,6 @@ plt.ylabel('Loss')
 plt.legend()
 plt.show()
 
-
 plt.clf()
 
 acc_values = history.history['accuracy']
