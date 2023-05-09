@@ -1,4 +1,4 @@
-# Thid-year-project
+# Third-year-project
 Researching Sentiment Analysis using Natural Language Processing
 
 
